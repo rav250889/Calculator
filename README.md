@@ -1,3 +1,3 @@
 <html>
-  <h1>Simply calculator</h1>
+  <h1>Simple calculator</h1>
 </html>
